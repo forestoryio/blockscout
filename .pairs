@@ -10,4 +10,4 @@ email:
   domain: ministryofvelocity.com
   no_solo_prefix: true
 
-global: true
+global: false
